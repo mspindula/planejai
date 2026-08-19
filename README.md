@@ -35,9 +35,9 @@ Toda a aplicação funciona diretamente no navegador, utilizando **localStorage*
 | Etapa | Processo | Descrição |
 |---|---|---|
 | **1️⃣ Dados financeiros** | 👤 Usuário | O usuário informa sua renda, gastos e objetivo financeiro. |
-| **2️⃣ Processamento** | ⚙️ Planej.ai | A aplicação organiza os dados e prepara o contexto para a análise. |
+| **2️⃣ Processamento** | ⚙️ Educa.Finança | A aplicação organiza os dados e prepara o contexto para a análise. |
 | **3️⃣ Inteligência Artificial** | 🤖 Google Gemini | A API do Gemini analisa as informações financeiras fornecidas. |
-| **4️⃣ Diagnóstico** | 📊 Planej.ai | A aplicação apresenta um diagnóstico personalizado com sugestões, ideias de renda extra e plano de ação. |
+| **4️⃣ Diagnóstico** | 📊 Educa.Finança | A aplicação apresenta um diagnóstico personalizado com sugestões, ideias de renda extra e plano de ação. |
 | **5️⃣ Histórico** | 💾 localStorage | Os dados e análises são armazenados localmente para consulta posterior. |
 
 ## 🛠️ Stacks do Projeto
